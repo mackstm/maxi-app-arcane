@@ -2,6 +2,8 @@
 
 # Mi Aplicación Vue (Arcane Edition)
 
+<img src="img/arcane.png"/>
+
 ## Índice
 
 - [Creación de proyecto](#index01)
